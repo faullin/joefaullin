@@ -21,7 +21,7 @@ body {
 h1 { 
     font-size: 24px;
     font-weight: 600;
-    margin-bottom: 8px;
+    margin-bottom: 5px;
 }
 
 h2 { 
@@ -46,14 +46,14 @@ a:hover {
 }
 
 .header {
-    margin-bottom: 20px;
-    padding-bottom: 20px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
     border-bottom: 1px solid var(--border);
 }
 
 .date {
     color: var(--text-secondary);
-    font-size: 14px;
+    font-size: 12px;
 }
 
 .meta {
@@ -61,7 +61,7 @@ a:hover {
 }
 
 footer {
-    margin-top: 60px;
+    margin-top: 10px;
     padding-top: 20px;
     border-top: 1px solid var(--border);
 }
