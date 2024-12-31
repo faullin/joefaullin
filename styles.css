@@ -61,8 +61,8 @@ a:hover {
 }
 
 footer {
-    margin-top: 10px;
-    padding-top: 20px;
+    margin-top: 5px;
+    padding-top: 5px;
     border-top: 1px solid var(--border);
 }
 
@@ -106,7 +106,7 @@ li:before {
 }
 
 ::selection {
-    background: var(--accent);
+    background: var(#C2CCFF);
     color: white;
 }
 
