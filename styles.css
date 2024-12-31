@@ -106,7 +106,7 @@ li:before {
 }
 
 ::selection {
-    background: var(#C2CCFF);
+    background: var(--accent);
     color: white;
 }
 
